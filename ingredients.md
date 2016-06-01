@@ -2,4 +2,4 @@ Ingredients:
 ============
 + tomatoes
 + spice
-+ single spice
++ triple spice
